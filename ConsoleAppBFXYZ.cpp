@@ -9,7 +9,7 @@ using namespace std;
 #define B (X + pow(Y,3)) / (X + pow(Z,2))
   
 int main() {
-	setlocale(LC_ALL, "rus");
+	setlocale(LC_ALL, "ru");
 	cout << "Вычислить b = f(x, y, z), где z = wf(x, y)" << endl;
 	cout << "b = " << B << endl;
 	return 0;
