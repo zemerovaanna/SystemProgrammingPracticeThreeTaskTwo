@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, "ru");
-    cout << "Задание 2: Составить программу для вычисления b = f(x, y, z), где z = wf(x, y) при постоянных значениях x и y." << endl;
+    cout << "Задание 2: Вычислить b, при b = f(x, y, z), где z = wf(x, y) при постоянных значениях x и y." << endl;
     cout << "b = " << b << endl;
     return 0;
 }
